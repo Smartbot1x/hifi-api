@@ -29,24 +29,20 @@
         "remote_control": "Inkluderet",
         "dimensions_mm": "430 x 70 x 280",
         "weight_kg": "6.5",
-        "power_consumption_w": 15,
+      "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
     {
@@ -65,24 +61,20 @@
         "remote_control": "High-grade alu-remote",
         "dimensions_mm": "430 x 75 x 320",
         "weight_kg": 7.8,
-          "power_consumption_w": 15,
+      "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
         
       }
     },
@@ -101,24 +93,20 @@
         "remote_control": "Inkluderet",
         "dimensions_mm": "430 x 60 x 280",
         "weight_kg": 6.0,
-         "power_consumption_w": 15,
+      "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
     {
@@ -136,24 +124,20 @@
         "remote_control": "Inkluderet",
         "dimensions_mm": "440 x 90 x 300",
         "weight_kg": 7.2,
-         "power_consumption_w": 15,
+       "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
     {
@@ -171,24 +155,20 @@
         "remote_control": "Inkluderet",
         "dimensions_mm": "430 x 75 x 300",
         "weight_kg": 5.5,
-         "power_consumption_w": 15,
+        "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
     {
@@ -207,24 +187,20 @@
         "remote_control": "Aluminium high-end fjernbetjening",
         "dimensions_mm": "440 x 85 x 310",
         "weight_kg": 6.8,
-         "power_consumption_w": 15,
+        "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
 
@@ -249,18 +225,14 @@
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
 
@@ -278,24 +250,20 @@
         "tubes": ["EL84", "12AT7", "12AX7"],
         "dimensions_mm": "210 x 150 x 300",
         "weight_kg": 7.0,
-         "power_consumption_w": 15,
+      "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
     {
@@ -311,24 +279,20 @@
         "tubes": ["300B", "5U4G", "6SN7"],
         "dimensions_mm": "430 x 200 x 380",
         "weight_kg": 15.0,
-         "power_consumption_w": 15,
+        "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
     {
@@ -344,24 +308,20 @@
         "tubes": ["KT88", "12AX7", "7044"],
         "dimensions_mm": "250 x 170 x 400",
         "weight_kg": 12.5,
-         "power_consumption_w": 15,
+        "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
     {
@@ -377,24 +337,20 @@
         "signal_to_noise": "112 dB",
         "dimensions_mm": "437 x 100 x 400",
         "weight_kg": 12.0,
-         "power_consumption_w": 15,
+        "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
     
@@ -413,24 +369,20 @@
         "remote_control": "Inkluderet",
         "dimensions_mm": "200 x 50 x 150",
         "weight_kg": 1.2,
-         "power_consumption_w": 15,
+       "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
     {
@@ -452,18 +404,14 @@
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
     {
@@ -479,24 +427,20 @@
         "remote_control": "Inkluderet",
         "dimensions_mm": "437 x 90 x 380",
         "weight_kg": 6.5,
-         "power_consumption_w": 15,
+        "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
     {
@@ -512,24 +456,20 @@
         "headphone_output": true,
         "dimensions_mm": "103 x 36 x 105",
         "weight_kg": 0.6,
-         "power_consumption_w": 15,
+        "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
 
@@ -550,24 +490,20 @@
         "sensitivity_db": 89,
         "dimensions_mm": "320 x 550 x 90",
         "weight_kg": 9.0,
-         "power_consumption_w": 15,
+        "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
     {
@@ -584,24 +520,20 @@
         "sensitivity_db": 88,
         "dimensions_mm": "190 x 310 x 260",
         "weight_kg": 6.0,
-         "power_consumption_w": 15,
+        "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
     {
@@ -618,24 +550,20 @@
         "sensitivity_db": 86,
         "dimensions_mm": "270 x 510 x 280",
         "weight_kg": 11.4,
-         "power_consumption_w": 15,
+        "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
-        "color": "Black",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
+        "color": "biege",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "yes"
       }
     },
     {
@@ -652,24 +580,20 @@
         "sensitivity_db": 85,
         "dimensions_mm": "275 x 460 x 275",
         "weight_kg": 12.0,
-         "power_consumption_w": 15,
+        "power_consumption_w": 15,
         "standby_power_consumption_w": 0.5,
         "signal_to_noise_ratio_db": 110,
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
-        "color": "Black",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
+        "color": "brick",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
-        }
+        "headphone": "no"
       }
     },
     {
@@ -696,7 +620,7 @@
         "frequency_response_hz": "2Hz – 20kHz",
         "supported_sampling_rates": ["44.1kHz"],
         "build_material": "anti-vibration",
-        "color": "Black",
+        "color": "orange",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
         "headphone": "yes"
