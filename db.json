@@ -700,10 +700,9 @@
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
         "headphone_output": {
-          "available": true,
-          "impedance_ohm": 32,
-          "output_level_mv": 150
+          "available": true
         }
+        
       }
     }
     
