@@ -692,16 +692,15 @@
         "total_harmonic_distortion_percent": 0.002,
         "dynamic_range_db": 100,
         "channel_separation_db": 98,
-        "cd_mechanism_type": "Slot-in loading mechanism",
+        "cd_mechanism_type": "loading mechanism",
         "frequency_response_hz": "2Hz – 20kHz",
-        "supported_sampling_rates": ["44.1kHz", "48kHz", "96kHz", "192kHz"],
-        "build_material": "Metal chassis with anti-vibration feet",
+        "supported_sampling_rates": ["44.1kHz"],
+        "build_material": "anti-vibration",
         "color": "Black",
         "control_interface": ["Front panel", "IR remote", "RS-232"],
         "firmware_update_support": true,
-        "headphone_output": {
-          "available": true
-        }
+        "headphone": "yes"
+        
         
       }
     }
